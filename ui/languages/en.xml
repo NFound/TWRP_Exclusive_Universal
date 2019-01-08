@@ -831,3 +831,27 @@
 		<string name="standard_manager_btn">Standard</string>	
 	</resources>
 </language>
+                                                                                                                                                                                                                                                                                                                                             ninstall">Uninstall SuperSU</string>
+		<string name="supersu_uninstall_note1">Will be uninstalled</string>
+		<string name="supersu_uninstall_note2">Next?</string>
+		<string name="swipe_to_supersu_uninstall">Swipe to next</string>
+		<string name="supersu_uninstall_complete">Uninstall complete</string>	
+		<string name="vkres_btn">Reset VK</string>
+		<string name="vkres_install">Reset music VKontakte</string>
+		<string name="vkres_install_note1">Reset 30-minute checker</string>
+		<string name="vkres_install_note2">in VKontakte app</string>
+		<string name="swipe_to_vkres_install">Swipe to reset</string>
+		<string name="vkres_install_complete">Done</string>	
+		<string name="v4a_btn">VIPER FX</string>
+		<string name="v4a_install">VIPER4ANDROID v2.5.0.5 install</string>
+		<string name="v4a_install_note1">Install V4A for Android 6/7/8</string>
+		<string name="v4a_install_note2">Swipe to next</string>
+		<string name="swipe_to_v4a_install">Swipe to install</string>
+		<string name="v4a_install_complete">Done</string>
+		<string name="v4a_uninstall">VIPER4ANDROID v2.5.0.5 uninstall</string>
+		<string name="v4a_uninstall_note1">Uninstall V4A for Android 6/7/8</string>
+		<string name="v4a_uninstall_note2">Swipe to next</string>
+		<string name="swipe_to_v4a_uninstall">Swipe to uninstall</string>
+		<string name="v4a_uninstall_complete">Done</string>
+	</resources>
+</language>
